@@ -42,8 +42,8 @@ To build a classification model that predicts customer decision behavior (loan: 
 ```
 Task-3/
 │
-├── Task3_DecisionTree.ipynb
-├── dataset.csv
+├── Task_3.ipynb
+├── bank.csv
 ```
 
 ## 8. Conclusion
